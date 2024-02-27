@@ -15,3 +15,6 @@ cloudflare-warp-bin for Arch Linux
  	2 - extract it and cd to directory 
   	3 - makepkg -si
    	4 - done : )
+
+    	If using `yay`, a one liner exists in `yay --editmenu -S cloudflare-warp-bin`
+     	You can overwrite the pkgbuild in the edit menu before resuming install
